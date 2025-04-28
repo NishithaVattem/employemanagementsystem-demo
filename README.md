@@ -1,2 +1,3 @@
-# employemanagementsystem-demo
-Responsive web application built for practice and portfolio
+# EmployeManagementSystem
+Full Stack Application using SpringBoot as Backend and React Front End using Mysql Database.
+
